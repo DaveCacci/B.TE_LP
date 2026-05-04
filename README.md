@@ -1,5 +1,6 @@
 **Created by:** Davide Carecci  
 **Initial commit:** 02.09.2025  
+⚠️ The **general_utils** library contains also a user manual to setup VSCode/Python for non-expert users and the list of the required standard Python libraries (download it from the [GitHub](https://github.com/DaveCacci/general_utils.git) repository).
 
 ---
 
